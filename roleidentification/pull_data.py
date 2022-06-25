@@ -1,6 +1,6 @@
 def pull_data():
     import requests
-    r = requests.get("http://cdn.merakianalytics.com/riot/lol/resources/latest/en-US/championrates.json")
+    r = requests.get("https://guardtoad.github.io/championrates/riot/lol/resources/latest/en-US/championrates.json")
     j = r.json()
     data = {}
     for champion_id, positions in j["data"].items():
