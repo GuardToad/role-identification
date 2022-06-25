@@ -2,7 +2,7 @@
 
 ### Setup
 
-Install from GitHub using pip: `pip install git+https://github.com/meraki-analytics/role-identification.git`
+Install from GitHub using pip: `pip install git+https://github.com/GuardToad/role-identification.git`
 
 This code can be used in [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) `Match` objects.
 
