@@ -7,7 +7,7 @@ install_requires = []
 
 setup(
     name="role-identification",
-    version="0.2.0",
+    version="0.3.0",
     author="Jason Maldonis",
     author_email="jason@merakianalytics.com",
     url="https://github.com/meraki-analytics/role-identification",
